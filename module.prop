@@ -1,0 +1,7 @@
+id=Facebook_Emoji
+name=Facebook 15.0.0 Emoji font
+version=v15.0.0.1
+versionCode=1500
+author=yeasinhossain23
+description=Systemlessly replaces emoji font with Facebook 15.0.0 Emoji
+updateJson=https://raw.githubusercontent.com/yeasinhossain23/Magisk-Facebook-Emoji/main/updater.json
