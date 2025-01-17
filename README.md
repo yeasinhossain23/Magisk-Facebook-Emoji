@@ -1,6 +1,6 @@
 # Magisk Facebook Emoji
 
-![Tecno spark 8 pro](Facebooku15emoji.jpg)
+![Facebook Emoji](Facebooku15emoji.jpg)
 
 Systemlessly replaces emoji font with Facebook Emoji
 
