@@ -1,5 +1,7 @@
-									Magisk Facebook Emoji.
-					Systemlessly replaces emoji font with Facebook Emoji.
+
+Magisk Facebook Emoji
+
+Systemlessly replaces emoji font with Facebook Emoji
 
 ##Requirements:
 To use the module you need to be rooted with Magisk or Kitsune mask/Magisk delta.KernelSU is not tested!! 
