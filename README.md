@@ -19,7 +19,7 @@ Systemlessly replaces the emoji font with Facebook Emoji.
 - **Devices**: Works on most devices. 
 
 ## Screenshot
-<img src="https://github.com/yeasinhossain23/Magisk-Facebook-Emoji/blob/facebook/Facebook_Emoji_Screenshot.jpg" alt="Facebook Emojis on Android" width="400" />  
+<img src="https://github.com/yeasinhossain23/Magisk-Facebook-Emoji/blob/Facebook/Facebook_Emoji_Screenshot.jpg" alt="Facebook Emojis on Android" width="400" />  
 *Example of Facebook emojis displayed on an Android device.*
 
 ## Changelog
